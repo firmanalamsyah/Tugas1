@@ -1,4 +1,4 @@
-/*	NIM		: 3411151057
+/*	NIM	: 3411151057
 	Nama	: Sigit Pratama
 	Kelas	: SIE A
 	Desc	: Tugas 1
